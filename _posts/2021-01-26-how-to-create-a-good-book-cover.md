@@ -2,7 +2,7 @@
 layout: post
 title: How to create a good book cover?
 date: 2021-01-26T16:10:15.307Z
-header_feature_image: ../uploads/capture-d’écran-1-.png
+header_feature_image: ../uploads/thought-catalog-b1dqcwz0u2w-unsplash.jpg
 title_color: "#ffffff"
 caption: The dream realm
 comments: false
