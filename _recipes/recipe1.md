@@ -12,7 +12,7 @@ Serves: 1
 
 Preparation time: 5 minutes
 
-![hand holding a blue cocktail on a  beach](../uploads/bluehawaiian.jpg "Blue Hawaiian")
+![blue cocktail with a navy blue straw](../uploads/bluehawaiian.jpg "Blue Hawaiian")
 
 ## Ingredients
 
