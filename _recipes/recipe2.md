@@ -24,7 +24,7 @@ Preparation time: 5 minutes
 ## Method
 
 1. Pour the white rum and the cane sugar syrup directly into the glass.
-2. Squeeze the lime into the glass to get the juice out (then put the lime in the glass)
+2. Squeeze the lime into the glass to get the juice out (then put the lime in the glass).
 3. Stir with a cocktail spoon.
-4. Add ice (optional)
-5. Add 2 to 3 slices of lime to the rim of the glass (optional)
+4. Add ice (optional).
+5. Add 2 to 3 slices of lime to the rim of the glass (optional).
