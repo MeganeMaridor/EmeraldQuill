@@ -7,4 +7,4 @@ subtitle: a Caribbean cookbook
 date: 2021-02-16T11:32:09.451Z
 show: false
 ---
-Here are links to all recipes.
+a Caribbean cookbook
