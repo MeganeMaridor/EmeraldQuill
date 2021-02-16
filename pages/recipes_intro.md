@@ -12,4 +12,4 @@ With its beautifully designed pages and mouth-watering images, this cookbook gui
 
 ![palm tree on a beach with pictures of caribbean dishes on the bottom (lobsters, blue cocktail, spices, and coconuts)](../uploads/mégane-maridor-ebook-cover.jpg "Palm trees and a Soft sea breeze book cover")
 
-[See a link of all recipes](https://emerald-quill.netlify.app/allrecipes/)
+[Link to all recipes](https://emerald-quill.netlify.app/allrecipes/)
