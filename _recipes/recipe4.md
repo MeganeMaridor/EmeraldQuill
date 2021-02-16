@@ -16,7 +16,7 @@ Cooking time: 10 minutes
 
 ![A plate of salt cod fritters (golden and round-shaped) with a side of spicy sauce](../uploads/saltcodfritters.png "Salt Cod Fritters")
 
-### Ingredients
+## Ingredients
 
 * 400g of salt cod
 * 300g of all-purpose flour
@@ -24,11 +24,11 @@ Cooking time: 10 minutes
 * 1 tsp of baking soda
 * 2 scallions, chopped
 * 3 garlic cloves
-* ½ bunch flat parsley, very finely chopped
+* ½ bunch of flat parsley, very finely chopped
 * 1 West Indian pepper, chopped
 * Juice of 1 lime
-* ½ teaspoon salt
-* ½ teaspoon pepper
+* ½ tsp of salt
+* ½ tsp of pepper
 * Peanut oil (for frying)
 
 ## Method
