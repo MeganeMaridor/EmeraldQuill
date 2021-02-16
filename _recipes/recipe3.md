@@ -3,7 +3,7 @@ title: Chicken Colombo
 date: 2021-02-16T13:25:03.005Z
 layout: recipe
 published: true
-order: 3
+order: 4
 tags: null
 ---
 Colombo, just like curry, isn't actually one spice, but the combination of several spices, in this case, coriander, cumin, yellow mustard seeds, fenugreek, fennel, pepper, turmeric and allspice, in equal measure. While you can buy Colombo already made, you can also do it yourself, which is often more satisfying. (Note that some of those spices can be found in curry, so you can use that as well)
