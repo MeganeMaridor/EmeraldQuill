@@ -1,32 +1,34 @@
 ---
-layout: recipe #this will be a basic page with styles coming from content.css
-title: Recipe 1
-date: 2019-10-19
+title: Blue Hawaiian
+date: 2021-02-16T10:16:43.060Z
+layout: recipe
 published: true
 order: 1
-tags:
+tags: null
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This smooth, fancy cocktail will transport you into a realm of wonders and excitement. While this recipe uses coconut milk, you can use coconut cream instead to have a thicker consistency.
 
-![Placeholder](../uploads/placeholder1.jpg)
 
+
+Serves: 1
+
+Preparation time: 5 minutes
+
+![hand holding a blue cocktail on a  beach](../uploads/bluehawaiian.jpg "Blue Hawaiian")
 
 ## Ingredients
 
-- Lorem ipsum dolor  
-- Lorem ipsum dolor  
-- Lorem ipsum dolor  
-- Lorem ipsum dolor  
-- Lorem ipsum dolor  
-- Lorem ipsum dolor  
+* 4cl of white rum
+* 2cl of blue curaçao
+* 8cl of pineapple juice
+* 4cl of coconut milk
+* 1 slice of pineapple (optional)
+
+
 
 ## Method
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-- Serves: 6
-- Preparation time: 1 hour
+1. Put all the ingredients in a cocktail shaker
+2. Add ice in the cocktail shaker and shake vigorously
+3. Pour the drink in a tall glass
+4. Add a slice of pineapple on the edge of the glass
