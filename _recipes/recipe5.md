@@ -23,7 +23,7 @@ Cooking time: 10 minutes
 
 ### For the butter
 
-* 125g [](https://www.bbcgoodfood.com/glossary/butter-glossary)butter, softened
+* 125g of [](https://www.bbcgoodfood.com/glossary/butter-glossary)butter, softened
 * 1 [](https://www.bbcgoodfood.com/glossary/garlic-glossary)garlic clove, crushed
 * a handful [](https://www.bbcgoodfood.com/glossary/parsley-glossary)of parsley leaves, finely chopped, plus extra to serve
 * 1 tsp of mustard
