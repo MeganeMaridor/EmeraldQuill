@@ -1,16 +1,15 @@
 ---
-title: My Recipes
+title: Palm Trees and a Soft Sea Breeze
+subtitle: A Caribbean Cookbook
 permalink: /recipes/
-date: 2020-11-19T18:50:31.663Z
-show: false
+date: 2021-02-16T11:17:17.740Z
+show: true
 layout: recipeshome
 ---
-This will be the home page for your recipes.
+Have you ever wished you could be lying down under a palm tree, a cocktail in hand and the shimmery sea in front of you? While this cookbook is no match compared to a plane ticket for the Bahamas, it takes you on a gustatory journey to make you forget about your small under-heated apartment, even for just a moment.
 
-Ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+With its beautifully designed pages and mouth-watering images, this cookbook guides you through the preparation of several Caribbean dishes, from entries to desserts, and of course, colourful cocktails (please note these are never complete without those small paper parasols children love so much). Be prepared to add spices in your life, as well as make your friends wonder if you did take an impromptu trip to Cuba behind their backs!
 
-Add the cover image here.
 
-[![Tomatoes](../uploads/tomatoes.jpg "Tomatoes")](/allrecipes)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![](../uploads/mégane-maridor-ebook-cover.jpg)
