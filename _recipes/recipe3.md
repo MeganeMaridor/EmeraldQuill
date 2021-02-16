@@ -21,7 +21,7 @@ Cooking time: 1h15
 * 1 chicken (about 1.8kg), skin removed and cut into small pieces
 * 45ml of olive oil
 * 1 red onion, thinly sliced
-* 6 cloves of garlic, peeled and halved
+* 6 garlic cloves, peeled and halved
 * 1tsp of crushed red pepper (or to taste)
 * 1tsp of chopped chili pepper (or to taste)
 * 2tbsp of ground Colombo powder
