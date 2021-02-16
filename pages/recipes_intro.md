@@ -10,6 +10,4 @@ Have you ever wished you could be lying down under a palm tree, a cocktail in ha
 
 With its beautifully designed pages and mouth-watering images, this cookbook guides you through the preparation of several Caribbean dishes, from entries to desserts, and of course, colourful cocktails (please note these are never complete without those small paper parasols children love so much). Be prepared to add spices in your life, as well as make your friends wonder if you did take an impromptu trip to Cuba behind their backs!
 
-
-
-![](../uploads/mégane-maridor-ebook-cover.jpg)
+![palm tree on a beach with pictures of caribbean dishes on the bottom (lobsters, blue cocktail, spices, and coconuts)](../uploads/mégane-maridor-ebook-cover.jpg "Palm trees and a Soft sea breeze book cover")
