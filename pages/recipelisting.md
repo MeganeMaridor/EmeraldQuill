@@ -1,5 +1,5 @@
 ---
-title: Palm trees and a Soft sea breeze (all recipes)
+title: Palm trees and a Soft sea breeze
 permalink: /allrecipes
 layout: recipeslisting
 published: true
