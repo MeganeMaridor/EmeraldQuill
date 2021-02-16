@@ -7,6 +7,6 @@ header_text_color: "#ffffff"
 bannerheight: 20vmax
 logo: ../uploads/capture-d’écran-3-.png
 favicon: /uploads/favicon.ico
-gridlayout: true
+gridlayout: false
 fixednavbar: false
 upzoom: true
