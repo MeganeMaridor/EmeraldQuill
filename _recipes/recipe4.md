@@ -8,13 +8,11 @@ tags: null
 ---
 Salt cod fritters (more commonly called 'accras de morue' in French) are traditional spicy appetizers, known all over the French West Indies. You can eat them on their own, or accompany them with 'sauce chien', another traditional Caribbean dish/sauce. 
 
-Serving: 25 fritters
+Serves: 25 fritters
 
 Preparation time: 1h
 
 Cooking time: 10 minutes
-
-
 
 ![A plate of salt cod fritters (golden and round-shaped) with a side of spicy sauce](../uploads/saltcodfritters.png "Salt Cod Fritters")
 
