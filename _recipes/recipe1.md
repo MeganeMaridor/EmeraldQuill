@@ -24,7 +24,7 @@ Preparation time: 5 minutes
 
 ## Method
 
-1. Put all the ingredients in a cocktail shaker
-2. Add ice in the cocktail shaker and shake vigorously
-3. Pour the drink in a tall glass
-4. Add a slice of pineapple on the edge of the glass (optional)
+1. Put all the ingredients in a cocktail shaker.
+2. Add ice in the cocktail shaker and shake vigorously.
+3. Pour the drink in a tall glass.
+4. Add a slice of pineapple on the edge of the glass (optional).
