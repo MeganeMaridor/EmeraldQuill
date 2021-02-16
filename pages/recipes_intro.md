@@ -1,6 +1,6 @@
 ---
-title: Palm Trees and a Soft Sea Breeze
-subtitle: A Caribbean Cookbook
+title: Palm trees and a Soft sea breeze
+subtitle: a Caribbean cookbook
 permalink: /recipes/
 date: 2021-02-16T11:17:17.740Z
 show: true
