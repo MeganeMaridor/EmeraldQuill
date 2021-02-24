@@ -6,15 +6,18 @@ html {
   background: #fff;
 }
 
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
+
 body {
   margin: 30px;
 }
+
 
 article,
 aside,
@@ -32,23 +35,29 @@ summary {
   display: block;
 }
 
+
 img {
   max-width: 100%;
 }
 
+
 blockquote {
 }
+
 
 .caption {
   display: block;
 }
 
+
 table {
 }
+
 
 td,
 th {
 }
+
 
 p,
 ol,
@@ -57,6 +66,7 @@ ul {
   margin-bottom: 1em;
 }
 
+
 hr {
   border: 0;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
@@ -64,25 +74,196 @@ hr {
   margin: 1em 0;
 }
 
+
 a {
   color: #337ab7;
   text-decoration: none;
 }
+
 
 /* for a menu for all recipes */
 ul.allrecipes {
   list-style: none;
 }
 
+
 .menu {
   display: block;
-  border: 1px solid gray;
+  border: 1px solid rgb(0, 154, 125);
   width: 15%;
+  min-width: 140px;
+  max-width: 200px;
   font-size: 60%;
   padding: 10px;
   margin: 20px 0;
+  background-color: white;
 }
 
 
+a.clear {
+  color: rgb(0, 154, 125);
+}
 
 
+a.home {
+  color: rgb(0, 154, 125);
+}
+
+
+body {
+background-color: rgb(255, 248, 198);
+font-family: georgia, serif;
+margin: 0;
+padding: 5px 0 40px 0;
+}
+
+
+h1, h2 {
+color: rgb(54, 255, 232);
+font-family: verdana, arial, helvetica, sans-serif;
+text-decoration: underline;
+}
+
+
+img {
+width: 70%;
+max-width: 400px;
+margin: 0 auto;
+display: block;
+}
+
+
+h2 {
+  color: rgb(0, 154, 125);
+  margin: 30px 0 10px 0;
+}
+
+
+h3 {
+  color: rgb(0, 75, 73);
+  text-decoration: underline;
+  margin: 20px 0 10px 0;
+}
+
+
+p {
+  text-align: justify;
+  margin: 0;
+  margin: 0 30px;
+}
+
+
+p.first {
+  text-indent: 30px;
+  margin: 0 30px 35px 30px;
+}
+
+
+ul {
+  list-style: none;
+  padding: 0 20px 0 35px;
+}
+ul li::before {
+  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: rgb(0, 154, 125); /* Change the color */
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 1em; /* Also needed for space (tweak if needed) */
+  margin-left: -1em
+}
+
+
+ol {
+text-align: justify;
+list-style-position: inside;
+padding: 0 20px;
+}
+
+
+div.everything {
+width: 70%;
+max-width: 900px;
+/* border: 1px solid green; */
+margin: auto;
+background-color: white;
+padding: 10px 20px;
+}
+
+
+header {
+background-color: rgb(54, 255, 232);
+padding: 2rem;
+width: 100%;
+margin-bottom: 1.25rem;
+}
+
+
+header h1 {
+  color: white;
+  text-align: center;
+}
+
+
+p:first-child {
+  font-size: 1rem;
+  font-family: cursive;
+  text-indent: 50px;
+}
+
+
+@media screen and (max-width: 700px) {
+  figure {
+    width: 60%;
+    float: none;
+    margin: 0 auto 2rem auto;
+  }
+  main {
+    width: 100%
+  }
+  body {
+  background-color: white;
+  padding: 0;
+  margin: 0;
+  }
+  body.recipe p:first-child {
+  margin-right: 8rem;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  figure {
+    width: 100%;
+    float: none;
+    margin: 0 auto 2rem auto;
+  }
+}
+
+header.link {
+  background-color: white;
+  margin: 0;
+}
+
+
+h1.link {
+  background-color: white;
+}
+
+
+a.post-link {
+  color: rgb(0, 154, 125);
+}
+
+
+figure.cover {
+  margin: 50px 0;
+}
+
+
+a.linkallrecipes {
+  color: rgb(0, 154, 125);
+}
+
+
+figure.image {
+  margin-top: 30px;
+}
