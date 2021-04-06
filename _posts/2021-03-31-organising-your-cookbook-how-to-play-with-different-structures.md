@@ -10,8 +10,6 @@ tags:
 ---
 While it may seem that cookbooks all follow the same strict structure, you can actually play around and have fun with the layout. After all, you are the author of your own book, and YOU get to decide how to organise your content (provided it still makes sense at the end, of course).
 
- 
-
 The usual structure for cookbooks is to divide recipes based on the order you would eat them in: appetizers, entries (like salads or soups), main dishes (either putting the sides in the same section or in a separate one), and desserts (sometimes adding drinks at the very end).  However, you can also divide your chapters by the different types of food, such as: breads, pastas, meats, fish, cocktails etc.
 
 These two layouts are the most common ones, but because there are so many cookbooks on the market, they are also immensely diverse.
@@ -28,12 +26,8 @@ There are, of course, many other ways you can structure your book, but these are
 
             You can also include additional chapters and/or sections in your cookbook, such as serving/presentation tips, guides to create your own stocks, sauces, or pastries (flaky, shortcrust, and so on).  Having a section with resources on where to buy your ingredients to be more sustainable could be a good idea, although this may be more relevant if you're writing a cookbook based on local recipes. You could also write a chapter on fundamental techniques (how to stuff a turkey, or how to roll a cake). Finally, if you're writing a cookbook for children, it could be funny for them to have a small colouring book at the end with pictures of the different dishes explored in the book.
 
- 
-
- 
-
 *Sources:*
 
-Fullerton, A. (2018) '8 Tips For Writing a Cookbook', *IngramSpark*, 5 June. Available at: <https://www.ingramspark.com/blog/8-tips-for-writing-a-cookbook> (Accessed 29/01/21)
+Fullerton, A. (2018) '8 Tips For Writing a Cookbook', *IngramSpark*, 5 June. Available at: <https://www.ingramspark.com/blog/8-tips-for-writing-a-cookbook>
 
-Jacob, D. (2016) 'So Many Ways to Organize A Cookbook', *DianneJ*, 22 November. Available at: <https://diannej.com/2016/so-many-ways-to-organize-a-cookbook/> (Accessed 29/01/21)
+Jacob, D. (2016) 'So Many Ways to Organize A Cookbook', *DianneJ*, 22 November. Available at: <https://diannej.com/2016/so-many-ways-to-organize-a-cookbook/>
